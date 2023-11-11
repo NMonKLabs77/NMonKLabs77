@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 I like to play my musical instruments,produce beats and music,read and watch historical,philosophical and uplifting stuff and practice code.
+- 🤔 I love Practicing my musical instruments,produce beats and music,read and watch historical,philosophical and uplifting stuff and practice code.
 - 🎓 I studied Technical and Business subjects at Castries Comprehensive secondary,in my last year of school I picked up coding starting with Python.
 - 💼 I plan to keep upskilling my existing programming languages,to work at full capacity with all the resources I learned at one of the leading tech giants
   overseas as a fully established and equipped Software Engineer with vast skills in Backend,Devops,and even Artificial Intelligence.
